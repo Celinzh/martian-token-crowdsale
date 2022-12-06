@@ -1,7 +1,5 @@
 # Martian_Token_Crowdsale
 
-# Unit 21: Martian Token Crowdsale
-
 ![alt=""](Images/application-image.png)
 
 ## Background
