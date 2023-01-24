@@ -1,4 +1,4 @@
-# Martian_Token_Crowdsale
+# Martian Token Crowdsale
 
 ![alt=""](Images/application-image.png)
 
